@@ -12,6 +12,7 @@
   853  cast --version
   854  foundryup
   855  forge --version
+forge --init
   856  forge create SimpleStorage --interactive
   857  forge create SimpleStorage --rps-url http://127.0.0.1:8545 --private-key 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
   858  forge create SimpleStorage --rpc-url http://127.0.0.1:8545 --private-key 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
